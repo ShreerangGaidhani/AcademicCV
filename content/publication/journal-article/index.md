@@ -1,8 +1,7 @@
 ---
-title: "An example journal article"
+title: "Shreerang Sample Article"
 authors:
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

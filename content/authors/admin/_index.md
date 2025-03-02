@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Shreerang Mahesh Gaidhani
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shreerang Mahesh
+last_name: Gaidhani
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📖
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,23 +20,23 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Ashoka University
+    url: https://www.ashoka.edu.in/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'shreerangmgofficial@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/shreeranggaidhani
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
@@ -47,9 +47,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - International Relations
+  - Global Economics
+  - Global AI Policy Analysis
+  - Political Science
 
 education:
   - area: PhD Artificial Intelligence
@@ -72,10 +73,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BA International Relations
+    institution: Ashoka University
+    date_start: 2024-08-01
+    date_end: 2024-08-01
     summary: |
       GPA: 3.4/4.0
       
@@ -183,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shreerang Gaidhani is a freshman at Ashoka University majoring in International Relations. He has published several articles and authored two books. His areas of interest include International Relations, 
